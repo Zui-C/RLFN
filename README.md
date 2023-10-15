@@ -25,4 +25,5 @@ If you aim to use this model for real-world applications, it's recommended to tr
 
 ## Acknowledgments
 
-We would like to acknowledge the work done on [SAN](https://github.com/tal-tech/SAN) and its modified version [CAN](https://github.com/LBH1024/CAN) which were references for our work.
+We would like to acknowledge the work done on [SAN](https://github.com/tal-tech/SAN) and its modified version [CAN](https://github.com/LBH1024/CAN). Additionally, we have utilized [MathBERTa](https://github.com/witiko/scm-at-arqmath3) in our work and would like to express our gratitude for their contributions.
+
