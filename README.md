@@ -17,6 +17,9 @@ python inference.py --dataset 2014
 Not save MathBERTa's params
 
 
+## GPT-4V test
+[GPT-4V test](https://github.com/Zui-C/RLFN/edit/main/GPT-4V_test) on CROHME 2014 datasets done by JiaQi Han
+
 
 ## Practical Application Notes
 
