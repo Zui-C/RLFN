@@ -32,13 +32,10 @@ All LaTeX command names appearing in the output were treated as single character
 | **GPT-4v**          | 31.85       | 49.09      | 60.45      |
 
 ## Discussions
-
 - GPT-4v was not fine-tuned, leading to a noticeable out-of-vocabulary issue. 
-- GPT-4v demonstrated enhanced capabilities, attributed to its pretraining on a vast dataset.
+- GPT-4v demonstrated enhanced capabilities in a zero-shot HMER scenario, attributed to its pretraining on a vast dataset.
+- GPT-4v exhibited a tendency for hallucination, a characteristic shared among large language models (LLMs). Several examples are $\sqrt{3}$ misrecognized as $\sqrt[3]{n}$, $\{ a_1, a_2, a_3, a_4 \}$ misrecognized as $\{ a_1, a_2, a_3, \dots \}$ , where '$n$' and '$\ldots$' emerge without presence in the given image. This observation highlights the potential challenges linked to the extensive use of pretrained LLMs. It also unveils that applying LM or LLM in the HMER field in the future might encounter hallucination or other emerging issues.
 
-- GPT-4v exhibited a tendency for hallucination, a characteristic shared among large language models (LLMs). This observation underscores potential challenges associated with the broader application of pretrained LLMs.
-
-- GPT-4v's performance consistency is anticipated to vary. 
 
 ## Acknowledgements
 
